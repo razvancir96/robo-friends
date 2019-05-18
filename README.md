@@ -3,7 +3,7 @@ A frontend app, done using React.js and Redux.js, containing some robot cards an
 
 To run the app:
 
-- Clone this repo
+- clone this repository
 
 - npm install
 
